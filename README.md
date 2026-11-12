@@ -1,36 +1,32 @@
+# Olá, eu sou o Matheus 👋
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/MGamaM/b21989664d08a27f20a6e440a2045d16/raw/d6bb2fabd3ba492cb076ace0dc31da5565bd6d7c/githubcard.svg"/>
-<h1 align="left">Olá,Eu me chamo Matheus </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MGamaM&color=yellow" alt="Profile views" /> </p>
+**Desenvolvedor Full Stack | Automação e Integrações**
+Construo sistemas web, APIs e integrações que eliminam trabalho manual e aumentam a produtividade das equipes.
 
-- 🔥 Pronto para desenvolver!
-- 💬 Me pregunte sobre: ** JavaScript, HTML, CSS **
-- 💻 Proficional em amdamento...
-- 📚 Estudante<br>
-##
- 📌 Procuro me desenvolver para evoluir constantemente 
-minhas habilidades e aprimorar o conhecimento.
+## 🔧 O que eu faço
+- Aplicações full stack (front-end e back-end)
+- Criação e consumo de APIs
+- Automação de processos e integração de sistemas
+- Dashboards e relatórios (BI)
 
-<div> 
-  <a href="https://instagram.com/gama_theus" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/MMatz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/Matsg#8467" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/matheus-gama-013924203" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+## 🛠 Tecnologias
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 
-🛠 &nbsp;Tech Stack
+## 🚀 Projetos em destaque
+- **[Nome do projeto 1]**: descrição curta do problema que resolve. ([código](link) · [demo](link))
+- **[Nome do projeto 2]**: descrição curta. ([código](link) · [demo](link))
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-</div>
-  
-## ⚙️ &nbsp;GitHub Analytics
-<div align="left">
-  <a href="https://github.com/MGamaM">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MGamaM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MGamaM&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+## 📚 Estudando agora
+Java, Spring Boot e integração de IA generativa em aplicações.
 
-![Snake animation](https://github.com/MGamaM/MGamaM/blob/output/github-contribution-grid-snake.svg)
+## 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-gama-013924203)
+[![Email](https://img.shields.io/badge/-Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:eumatheusgama@hotmail.com)
