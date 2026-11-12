@@ -1,32 +1,59 @@
-# Olá, eu sou o Matheus 👋
+# Matheus Gama Sousa
 
-**Desenvolvedor Full Stack | Automação e Integrações**
-Construo sistemas web, APIs e integrações que eliminam trabalho manual e aumentam a produtividade das equipes.
+**Desenvolvedor Full Stack · Automação e Integrações**
+São Paulo, Brasil
 
-## 🔧 O que eu faço
-- Aplicações full stack (front-end e back-end)
-- Criação e consumo de APIs
-- Automação de processos e integração de sistemas
-- Dashboards e relatórios (BI)
+Desenvolvo sistemas web, APIs e integrações que automatizam processos e melhoram a eficiência das equipes. Atuo no front-end e no back-end, com foco em soluções bem estruturadas, escaláveis e fáceis de manter.
 
-## 🛠 Tecnologias
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+---
 
-## 🚀 Projetos em destaque
-- **[Nome do projeto 1]**: descrição curta do problema que resolve. ([código](link) · [demo](link))
-- **[Nome do projeto 2]**: descrição curta. ([código](link) · [demo](link))
+## Stack
 
-## 📚 Estudando agora
-Java, Spring Boot e integração de IA generativa em aplicações.
+| Área | Tecnologias |
+|---|---|
+| **Linguagens** | JavaScript · Python · SQL |
+| **Back-end e APIs** | Node.js · Criação e consumo de APIs REST · Integração de sistemas |
+| **Front-end** | React · Angular |
+| **Dados e nuvem** | PostgreSQL · Google Cloud Platform (GCP) · Vercel |
+| **Ferramentas** | Git · GitHub |
+| **Em estudo** | Java · Spring Boot · Integração de IA generativa |
 
-## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-gama-013924203)
-[![Email](https://img.shields.io/badge/-Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:eumatheusgama@hotmail.com)
+<p>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,angular,python,postgres,gcp,vercel,git&theme=dark" alt="Stack" />
+</p>
+
+---
+
+## Experiência prática
+
+Desenvolvedor Web no **Grupo Arbo**, onde projetei e mantive sistemas em produção usados no dia a dia das equipes:
+
+- **CRM de gestão operacional:** tarefas e projetos em cards, timers de conclusão, templates e dashboards de BI.
+- **Controle de vendas e comissões:** integração entre vendedores e backoffice, com previsão e controle de comissões.
+- **Editor visual de templates de marketing:** criação e edição de peças, repositório de templates e envio de comunicados por e-mail.
+- **Automação de vouchers:** leitura de planilhas e documentos, preenchimento de templates dinâmicos e envio em lote por e-mail.
+
+> O código desses sistemas é privado. Os projetos abaixo são versões demonstrativas com dados fictícios.
+
+---
+
+## Projetos
+
+| Projeto | Descrição | Stack | Links |
+|---|---|---|---|
+| **Nome do projeto** | O problema que resolve, em uma linha | Node.js · React · PostgreSQL | [Código](#) · [Demo](#) |
+
+---
+
+## Formação
+
+- **Tecnologia em Análise e Desenvolvimento de Sistemas** · UNINOVE
+- **Bootcamp Java e IA Generativa** · Itaú / DIO (em andamento)
+- **AI Foundations** · OpenAI
+
+---
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-gama-013924203)
+[![E-mail](https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:eumatheusgama@hotmail.com)
